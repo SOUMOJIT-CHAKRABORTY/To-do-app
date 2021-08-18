@@ -1,0 +1,23 @@
+.Main-Container{
+    display:flex;
+    justify-content: space-around;
+    flex-direction:row;
+    margin-top: 100px;
+    //margin: auto;
+    
+    
+}
+.price-container{
+    //border: 3px solid red;
+    border-width: 30%;
+    text-align: center;
+    background-color: sandybrown;
+    border-style:solid;
+    border-radius: 12px;
+    height:250px;
+    align-content:space-between;
+    align-items:felx-start
+   
+    
+    
+}
