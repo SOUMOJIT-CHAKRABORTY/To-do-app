@@ -1,0 +1,12 @@
+.border{
+   
+        width: 40%;
+        margin: auto;
+}
+.card{
+      border: 2px solid blue;
+      width:75%;
+      height: 400px;
+      border-radius: 12px;
+      text-align: center;
+}
