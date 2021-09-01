@@ -4,9 +4,8 @@
     left: 50%;
     height: 150px;
     transform: translate(-50%,-50%);
-    border: 1px solid rgb(221, 97, 25);
     border-radius: 8px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;;
 }
 .container{
     background: #fff;
@@ -33,11 +32,11 @@
     left: -100%;
     z-index: -1;
 }
-.btn button{
+#button{
     height: 50%;
-    background: none;
+    background: rgb(221, 97, 25);
     border: none;
-    color: rgb(221, 97, 25);
+    color: white ;
     font-size: 18px;
     font-weight: 500;
     letter-spacing:1px;

@@ -17,6 +17,17 @@
       margin-top: 70px;
       text-align: center;
 }
+.add-icon{
+      position: absolute;
+      bottom: 180px;
+      right: 535px;
+      -webkit-transform: rotate(0deg);
+}
+#Icon{
+      position: absolute;
+      top: 171px;
+      left: 600px;
+}
 #link{
       text-decoration: none;
       color: grey;
@@ -43,7 +54,14 @@
     font-size: 15px;
 }
 
+#back{
+      
+}
 
+#icon{
+      vertical-align: middle;
+
+}
 .head-top{
       font-size: 40px;
       font-weight: 900;
